@@ -1,0 +1,63 @@
+﻿body {
+    margin: 0;
+}
+
+.topnav {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+.topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.topnav a:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+.topnav a.active {
+    background-color: #4CAF50;
+    color: white;
+}
+
+/*----------------------FOOTER-------------------------*/
+footer.footer {
+    padding: 200px 100px 10px 100px;
+}
+
+.footer {
+    text-align: center;
+}
+
+.adress {
+    position: relative;
+    background-color: #ddd2efc9;
+}
+
+li#1 :before {
+    content: "\f025";
+}
+
+li#2 :before {
+    content: "\f025";
+}
+
+li#3 :before {
+    content: "\f025";
+}
+
+li#4 :before {
+    content: "\f025";
+}

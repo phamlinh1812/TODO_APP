@@ -1,0 +1,17 @@
+.App {
+  display: flex;
+  flex-flow: column nowrap;
+  margin-top: 50px;
+}
+
+div.App {
+  font-size: 5rem;
+  padding: 0px 20px 0px 20px;
+  background-color: rgb(51, 130, 221);
+  border-radius: 10px;
+  border: 2px solid black;
+  align-self: center;
+  color: mintcream;
+  font-family: 'Comic Sans MS', cursive;
+  text-align: center;
+}
